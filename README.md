@@ -1,4 +1,4 @@
-# SSMA-Main-
+# Smart Sheet Music Annotator
 A tool that uses computer vision and basic AI to help musicians interact with sheet music digitally.
 we need a small image file of a quarter note as quarter_note_template.png to do template matching properly.
 
